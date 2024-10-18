@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello+There!+I'm+El_Sherbiny+" />
 </h3>
 
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
+<img align="right" alt="Coding" width="200" height="260" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
 
 ---
 - 🌱 I’m currently learning **IaC and Network Security**
@@ -24,7 +24,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Elsherbiny73&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elsherbiny73&theme=tokyonight)
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" width="150" height="150" src="https://i.pinimg.com/originals/7d/fb/93/7dfb938ed0024eb99ef3580dbefdf957.gif"  />
 
 
 <h3 align="left">You can connect with me from:</h3>
