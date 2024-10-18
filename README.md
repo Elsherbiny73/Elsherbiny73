@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="200" height="260" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
 
 ---
-- 🌱 I’m currently learning **IaC and Network Security**
+- 🌱 I’m currently learning **APS.NET Core**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Elsherbiny73?tab=repositories](https://github.com/Elsherbiny73?tab=repositories)
