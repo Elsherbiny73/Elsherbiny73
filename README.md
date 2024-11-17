@@ -13,16 +13,45 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Elsherbiny73?tab=repositories](https://github.com/Elsherbiny73?tab=repositories)
 
 - 💬 Ask me about **DevOps**
-
-- 📫 How to reach me **youssefelsherbiny73@gmail.com**
-
+ 
 - ⚡ Fun fact **Love watching movies**
 ---
-📊 Stats
+<h2 align="left">⚡ Coding Stats ⚡</h2>
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elsherbiny73&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Elsherbiny73&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elsherbiny73&theme=tokyonight)
+<br>
+<div align="center">
+
+<!-- First row -->
+<table>
+  <tr>
+    <td>
+      <img width="410" src="https://streak-stats.demolab.com/?user=Elsherbiny73&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    </td>
+    <td>
+      <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=Elsherbiny73&count_private=true&theme=react&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Second row -->
+<table>
+  <tr>
+    <td>
+      <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Elsherbiny73&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
+    </td>
+    <td>
+      <a href="https://codeforces.com/profile/SHER_Z3EM">
+        <img width="410" src="https://codeforces-readme-stats.vercel.app/api/card?username=SHER_Z3EM&theme=react" alt="Codeforces Stats"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+<br/><br/>
+<hr/>
 
 <img align="right" width="150" height="150" src="https://i.pinimg.com/originals/7d/fb/93/7dfb938ed0024eb99ef3580dbefdf957.gif"  />
 
@@ -33,6 +62,8 @@
 <a href="https://www.facebook.com/youssef.elsherbiny.3591/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youssef el sherbiny" height="30" width="40" /></a>
 <a href="https://www.instagram.com/el____sherbiny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="el----sherbiny" height="30" width="40" /></a>
 <a href="https://discord.gg/1056228615316054126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2309" height="30" width="40" /></a>
+<a href="mailto:youssefelsherbiny73@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail Logo" width="30" height="40">
+  </a>
 </p>
 
 <h3 align="left">My Languages and Tools:</h3>
