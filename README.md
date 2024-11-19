@@ -8,10 +8,10 @@
 - 🌱 I’m currently learning **APS.NET Core**
 
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/Elsherbiny73?tab=repositories"><strong>My Repo</strong></a>
+- 👨‍💻 All my projects are available at <a href="https://github.com/Elsherbiny73?tab=repositories"><strong>My Repo</strong></a>
 
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **anything**
  
 - ⚡ Fun fact **Love watching movies**
 ---
