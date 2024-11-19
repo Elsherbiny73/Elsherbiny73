@@ -15,7 +15,7 @@
  
 - ⚡ Fun fact **Love watching movies**
 ---
-<h2 align="left">⚡ Coding Stats ⚡</h2>
+<h3 align="left">⚡ Coding Stats ⚡</h3>
 
 <br>
 <div align="center">
