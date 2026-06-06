@@ -77,10 +77,10 @@ passion:     Translating complex systems into teachable concepts
 <div align="center">
 
 <a href="https://github.com/Elsherbiny73">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Elsherbiny73&show_icons=true&theme=github_dark&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Elsherbiny73&show_icons=true&theme=github_dark&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/Elsherbiny73">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsherbiny73&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=0e75b6&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Elsherbiny73&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=0e75b6&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 
 <br/>
