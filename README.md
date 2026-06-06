@@ -2,12 +2,17 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║   youssef@arch:~$  whoami                               ║
+║   El_Sherbiny@arch:~$  whoami                               ║
 ║   > Software Engineer · Backend Developer · Educator    ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-# Youssef El Sherbiny
+<h3 align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Youssef+El_Sherbiny+" />
+
+</h3>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Go+%26+ASP.NET+Core;Arch+Linux+%7C+i3wm+%7C+Zsh+Power+User;Instructor+%7C+CS+%26+English+Educator;GSoC+2027+Aspirant+%F0%9F%9A%80)](https://git.io/typing-svg)
 
