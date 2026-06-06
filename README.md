@@ -61,13 +61,13 @@ passion:     Translating complex systems into teachable concepts
 
 ## `$ cat current_work.log`
 
-```
-[ACTIVE]   Building scalable microservices in Go
-[ACTIVE]   Deep-diving ASP.NET Core architecture patterns
-[ACTIVE]   Refining i3wm dotfiles (public repo ↓)
-[ACTIVE]   Teaching CS & English to high school students
-[PENDING]  GSoC 2027 — researching orgs & building track record
-[FUTURE]   Open source contributions & community building
+```diff
++ [ACTIVE]   Building scalable microservices in Go
++ [ACTIVE]   Deep-diving ASP.NET Core architecture patterns
++ [ACTIVE]   Refining i3wm dotfiles (public repo ↓)
++ [ACTIVE]   Teaching CS & English to high school students
+! [PENDING]  GSoC 2027 — researching orgs & building track record
+# [FUTURE]   Open source contributions & community building
 ```
 
 ---
