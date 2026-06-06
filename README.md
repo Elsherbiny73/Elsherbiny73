@@ -1,89 +1,86 @@
-<!-- Clean Typing Header -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi,+I'm+Youssef+Elsherbiny;Software+Engineer+%26+Instructor;Building+scalable+backend+systems" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=200&section=header&text=Youssef%20El%20Sherbiny&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-<br>
+<h3 align="center">
+  Software Engineer & Instructor • Arch Linux Enthusiast • Backend Developer
+</h3>
 
-<!-- Minimalist Intro -->
 <div align="center">
-  <p>
-    Passionate about backend architecture, Linux environments, and teaching the next generation of developers. 
-    <br> Currently focusing on <b>Go</b> and preparing for <b>GSoC 2027</b>.
-  </p>
-  
-  <p>
-    <a href="https://github.com/Elsherbiny73/dotfiles_i3">⚙️ i3/Zsh Dotfiles</a>
-    <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-    <a href="https://github.com/Elsherbiny73">🚀 My Projects</a>
-    <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-    <a href="mailto:youssefelsherbiny73@gmail.com">📫 Get in Touch</a>
-  </p>
+  <a href="https://github.com/Elsherbiny73/dotfiles_i3"><img src="https://img.shields.io/badge/⚙️-i3%2FZsh%20Dotfiles-0e75b6?style=flat-square&logoColor=white" /></a>
+  <a href="https://github.com/Elsherbiny73"><img src="https://img.shields.io/badge/🚀-Prepping%20for%20GSoC-0e75b6?style=flat-square&logoColor=white" /></a>
+  <a href="mailto:youssefelsherbiny73@gmail.com"><img src="https://img.shields.io/badge/📫-Let's%20Talk-0e75b6?style=flat-square&logoColor=white" /></a>
 </div>
 
 <br><br>
 
-<!-- Sleek Tech Stack using Skill-Icons -->
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="left">🚀 About Me</h3>
+
+*   **Focus:** Bridging the gap between high-performance backend architecture and programming education.
+*   **Current Deep Dive:** Building scalable services in **Go** and exploring **ASP.NET Core**.
+*   **Environment:** Daily driver is **Arch Linux** fully customized with **i3wm** and **Zsh**.
+*   **Milestones:** Actively preparing for **Google Summer of Code (GSoC) 2027**.
+*   **Mentorship:** Teaching programming to high school students, translating complex concepts into actionable skills.
+
 <br>
+
+<h3 align="left">🛠️ Tech Arsenal</h3>
+
 <div align="center">
-  <p><strong>Languages & Frameworks</strong></p>
+  <p><strong>Languages & Core Frameworks</strong></p>
+  <!-- Using sleek, rounded glass-like icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,cs,cpp,py,dotnet&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=go,cs,cpp,py,dotnet,js,html,css&perline=8" />
   </a>
+  
   <br><br>
   
-  <p><strong>Systems, Databases & Tools</strong></p>
+  <p><strong>Systems, Tools & Infrastructure</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,bash,docker,aws,mysql,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=arch,linux,bash,docker,aws,mysql,github&perline=8" />
   </a>
 </div>
 
 <br><br>
 
-<!-- Side-by-Side Transparent Stats Cards -->
-<h3 align="center">📊 GitHub Analytics</h3>
-<br>
+<h3 align="left">📊 GitHub Analytics</h3>
+
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border: none;">
+  <table>
     <tr>
-      <td align="center" style="border: none; background: transparent;">
-        <!-- Fixed the GitHub Stats Card with a transparent theme -->
-        <img src="https://github-readme-stats.vercel.app/api?username=Elsherbiny73&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=8B949E" alt="GitHub Stats" />
+      <td align="center">
+        <!-- Transparent dark theme for a seamless look -->
+        <img src="https://github-readme-stats.vercel.app/api?username=Elsherbiny73&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=aeb3b8&icon_color=0e75b6" alt="GitHub Stats" />
       </td>
-      <td align="center" style="border: none; background: transparent;">
-        <!-- Streak Stats matched to the transparent theme -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elsherbiny73&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8B949E&sideNums=8B949E&sideLabels=8B949E&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsherbiny73&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=aeb3b8" alt="Top Langs" />
       </td>
     </tr>
   </table>
-  
-  <br>
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsherbiny73&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8B949E" alt="Top Languages" />
 </div>
 
 <br><br>
 
-<!-- Clean Social Footer -->
-<h3 align="center">Connect with me</h3>
-<br>
+<h3 align="left">🌐 Let's Connect</h3>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/youssef-el-sherbiny-b8403825a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.gg/1056228615316054126" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
+  <a href="mailto:youssefelsherbiny73@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+  <a href="https://codeforces.com/profile/SHER_Z3EM" target="_blank">
+    <!-- Custom flat badge for Codeforces to match the height of the skill icons -->
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="48" alt="Codeforces" />
+  </a>
+</div>
+
+<br><br>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/youssef-el-sherbiny-b8403825a/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/1056228615316054126">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:youssefelsherbiny73@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
-  </a>
-  
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=ElSherbiny73&label=Views&color=3B82F6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ElSherbiny73&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
