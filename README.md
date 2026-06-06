@@ -97,7 +97,7 @@ passion:     Translating complex systems into teachable concepts
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| 🌍 [WAYNX AI Trip Planner](https://github.com/Elsherbiny73/Waynx-Project-Graduation/tree/main/backend) | `Go` `Gin` `SQLite` `Gemini AI` | High-performance backend API that uses Google Gemini to generate multi-city travel itineraries with JWT auth & Swagger docs |
+| 🌍 [WAYNX AI Trip Planner](https://github.com/Waynx-Project-Graduation/backend) | `Go` `Gin` `SQLite` `Gemini AI` | High-performance backend API that uses Google Gemini to generate multi-city travel itineraries with JWT auth & Swagger docs |
 | 🔧 [dotfiles_i3](https://github.com/Elsherbiny73/dotfiles_i3) | `Zsh` `i3wm` `Bash` | Fully customized Arch Linux environment — window manager, shell, and tooling configs |
 | 🚧 *More coming soon...* | | Actively building — stay tuned |
 
