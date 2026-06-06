@@ -27,7 +27,7 @@ name:        Youssef El Sherbiny
 role:        Software Engineer & CS Instructor
 focus:       Scalable Backend Systems · Developer Education
 languages:   Go · C# · C++ · Python · JavaScript
-frameworks:  ASP.NET Core · currently exploring Echo (Go)
+frameworks:  frameworks:  ASP.NET Core · Gin (Go) · Google Gemini API
 os:          Arch Linux (btw) · i3wm · Zsh + custom configs
 goal_2027:   Google Summer of Code (GSoC)
 passion:     Translating complex systems into teachable concepts
@@ -97,6 +97,7 @@ passion:     Translating complex systems into teachable concepts
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| 🌍 [WAYNX AI Trip Planner](https://github.com/Elsherbiny73/Waynx-Project-Graduation/tree/main/backend) | `Go` `Gin` `SQLite` `Gemini AI` | High-performance backend API that uses Google Gemini to generate multi-city travel itineraries with JWT auth & Swagger docs |
 | 🔧 [dotfiles_i3](https://github.com/Elsherbiny73/dotfiles_i3) | `Zsh` `i3wm` `Bash` | Fully customized Arch Linux environment — window manager, shell, and tooling configs |
 | 🚧 *More coming soon...* | | Actively building — stay tuned |
 
