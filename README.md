@@ -1,77 +1,154 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=200&section=header&text=Youssef%20El%20Sherbiny&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+
+```
+╔══════════════════════════════════════════════════════════╗
+║   youssef@arch:~$  whoami                               ║
+║   > Software Engineer · Backend Developer · Educator    ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+# Youssef El Sherbiny
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Go+%26+ASP.NET+Core;Arch+Linux+%7C+i3wm+%7C+Zsh+Power+User;Instructor+%7C+CS+%26+English+Educator;GSoC+2027+Aspirant+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 </div>
 
-<h3 align="center">
-  Software Engineer & Instructor • Arch Linux Enthusiast • Backend Developer
-</h3>
+---
+
+## `$ cat about.txt`
+
+```yaml
+name:        Youssef El Sherbiny
+role:        Software Engineer & CS Instructor
+focus:       Scalable Backend Systems · Developer Education
+languages:   Go · C# · C++ · Python · JavaScript
+frameworks:  ASP.NET Core · currently exploring Echo (Go)
+os:          Arch Linux (btw) · i3wm · Zsh + custom configs
+goal_2027:   Google Summer of Code (GSoC)
+passion:     Translating complex systems into teachable concepts
+```
+
+---
+
+## `$ ls ./skills/`
 
 <div align="center">
-  <a href="https://github.com/Elsherbiny73/dotfiles_i3"><img src="https://img.shields.io/badge/⚙️-i3%2FZsh%20Dotfiles-0e75b6?style=flat-square&logoColor=white" alt="Dotfiles" /></a>
-  <a href="https://github.com/Elsherbiny73"><img src="https://img.shields.io/badge/🚀-Prepping%20for%20GSoC-0e75b6?style=flat-square&logoColor=white" alt="GSoC" /></a>
-  <a href="mailto:youssefelsherbiny73@gmail.com"><img src="https://img.shields.io/badge/📫-Let's%20Talk-0e75b6?style=flat-square&logoColor=white" alt="Contact" /></a>
+
+**— Languages & Frameworks —**
+
+<img src="https://skillicons.dev/icons?i=go,cs,cpp,py,dotnet,js,html,css&perline=8" alt="Languages and Frameworks" />
+
+<br/><br/>
+
+**— Systems, Tools & Infrastructure —**
+
+<img src="https://skillicons.dev/icons?i=arch,linux,bash,docker,aws,mysql,git,github&perline=8" alt="Infrastructure and Tools" />
+
+<br/><br/>
+
+**— Editor & Environment —**
+
+<img src="https://skillicons.dev/icons?i=vscode,vim,neovim&perline=8" alt="Editor and Environment" />
+
 </div>
 
-<br><br>
+---
 
-<h3 align="left">🚀 About Me</h3>
+## `$ cat current_work.log`
 
-*   **Focus:** Bridging the gap between high-performance backend architecture and programming education.
-*   **Current Deep Dive:** Building scalable services in **Go**, exploring **ASP.NET Core**, and configuring AI developer tools.
-*   **Environment:** Daily driver is **Arch Linux** fully customized with **i3wm** and **Zsh**.
-*   **Milestones:** Actively preparing for **Google Summer of Code (GSoC) 2027**.
-*   **Mentorship:** Teaching programming and English to high school students, translating complex concepts into actionable skills.
+```
+[ACTIVE]   Building scalable microservices in Go
+[ACTIVE]   Deep-diving ASP.NET Core architecture patterns
+[ACTIVE]   Refining i3wm dotfiles (public repo ↓)
+[ACTIVE]   Teaching CS & English to high school students
+[PENDING]  GSoC 2027 — researching orgs & building track record
+[FUTURE]   Open source contributions & community building
+```
 
-<br>
+---
 
-<h3 align="left">🛠️ Tech Arsenal</h3>
+## `$ git log --oneline --graph`
 
 <div align="center">
-  <p><strong>Languages & Core Frameworks</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,cs,cpp,py,dotnet,js,html,css&perline=8" alt="Languages and Frameworks" />
-  </a>
-  
-  <br><br>
-  
-  <p><strong>Systems, Tools & Infrastructure</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,linux,bash,docker,aws,mysql,github&perline=8" alt="Infrastructure and Tools" />
-  </a>
+
+<a href="https://github.com/Elsherbiny73">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Elsherbiny73&show_icons=true&theme=github_dark&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/Elsherbiny73">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsherbiny73&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=0e75b6&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Elsherbiny73">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=Elsherbiny73&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Elsherbiny73">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Elsherbiny73&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&area_color=0e75b6&hide_border=true" />
+</a>
+
 </div>
 
-<br><br>
+---
 
-<h3 align="left">📊 GitHub Analytics</h3>
+## `$ ls ./projects/pinned/`
 
-<!-- Removed the table for better mobile responsiveness -->
+| Project | Stack | Description |
+|---------|-------|-------------|
+| 🔧 [dotfiles_i3](https://github.com/Elsherbiny73/dotfiles_i3) | `Zsh` `i3wm` `Bash` | Fully customized Arch Linux environment — window manager, shell, and tooling configs |
+| 🚧 *More coming soon...* | | Actively building — stay tuned |
+
+---
+
+## `$ cat gsoc_prep.md`
+
+> **Goal: GSoC 2027**
+> Currently identifying target organizations and codebases to contribute to.
+> Building a track record through open source contributions, code quality, and community engagement.
+>
+> If you're also on this journey — let's connect.
+
+---
+
+## `$ ping connect`
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elsherbiny73&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=aeb3b8&icon_color=0e75b6" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsherbiny73&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=aeb3b8" alt="Top Langs" />
+
+<a href="https://www.linkedin.com/in/youssef-el-sherbiny-b8403825a/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:youssefelsherbiny73@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
+&nbsp;
+<a href="https://discord.gg/1056228615316054126" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+</a>
+&nbsp;
+<a href="https://codeforces.com/profile/SHER_Z3EM" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="48" alt="Codeforces" />
+</a>
+&nbsp;
+<a href="https://github.com/Elsherbiny73" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
+
 </div>
 
-<br><br>
-
-<h3 align="left">🌐 Let's Connect</h3>
-
-<!-- Centered the social icons for better visual symmetry -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/youssef-el-sherbiny-b8403825a/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.gg/1056228615316054126" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-  </a>
-  <a href="mailto:youssefelsherbiny73@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-  <a href="https://codeforces.com/profile/SHER_Z3EM" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="48" alt="Codeforces" />
-  </a>
-</div>
-
-<br><br>
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ElSherbiny73&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+
+```
+╔══════════════════════════════════════════╗
+║  "Write code that teaches itself."       ║
+╚══════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=ElSherbiny73&label=profile+views&color=0e75b6&style=flat-square)
+
 </div>
